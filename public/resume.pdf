@@ -1,0 +1,159 @@
+%PDF-1.4
+1 0 obj
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+  /Type /Pages
+  /Kids [3 0 R]
+  /Count 1
+>>
+endobj
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 612 792]
+  /Contents 4 0 R
+  /Resources <<
+    /Font <<
+      /F1 5 0 R
+      /F2 6 0 R
+    >>
+  >>
+>>
+endobj
+4 0 obj
+<<
+  /Length 2450
+>>
+stream
+BT
+/F1 20 Tf
+50 745 Td
+(NAVEEN KUMAR P) Tj
+/F2 9 Tf
+0 -18 Td
+(+91 8220899501 | naveenpalani1712@gmail.com | LinkedIn: in/naveen-kumar-p | GitHub: hackerdrop25-collab) Tj
+
+/F1 12 Tf
+0 -26 Td
+(PROFILE SUMMARY) Tj
+/F2 9 Tf
+0 -14 Td
+(Aspiring Cybersecurity Analyst with a strong foundation in network security, ethical hacking, and OS) Tj
+0 -12 Td
+(hardening. Proven track record in developing threat detection tools and automating incident response.) Tj
+0 -12 Td
+(Committed to securing enterprise systems through proactive monitoring and risk mitigation.) Tj
+
+/F1 12 Tf
+0 -24 Td
+(EDUCATION) Tj
+/F1 10 Tf
+0 -15 Td
+(Sri Shakthi Institute of Engineering and Technology - Coimbatore, Tamil Nadu) Tj
+/F2 9 Tf
+0 -12 Td
+(B.E. Computer Science Engineering (Cyber Security) | Sep 2023 - Sep 2027 | CGPA: 7.3/10) Tj
+/F1 10 Tf
+0 -15 Td
+(P.A.C.R Memorial Higher Secondary School - Rajapalayam, Tamil Nadu) Tj
+/F2 9 Tf
+0 -12 Td
+(HSC: 78.6% (June 2022 - Apr 2023) | SSLC: Pass (June 2020 - Apr 2021)) Tj
+
+/F1 12 Tf
+0 -24 Td
+(SKILLS) Tj
+/F2 9 Tf
+0 -14 Td
+(Programming Languages: C, Python, JavaScript, SQL, Java) Tj
+0 -12 Td
+(Databases: MySQL, MongoDB, JSON Evidence Stores) Tj
+0 -12 Td
+(CyberSecurity: Networking, Ethical Hacking, Linux, Incident Response, MITRE ATT&CK, OS Hardening) Tj
+0 -12 Td
+(Tools & Tech: GitHub, Git, Sysmon, ELK Stack, Wireshark, PyWin32, Tkinter, Flask, React, Docker) Tj
+
+/F1 12 Tf
+0 -24 Td
+(PROJECTS) Tj
+/F1 10 Tf
+0 -15 Td
+(1. Unified Blue Team Threat Detection and Alert System - (Python, Flask, Sysmon, ELK Stack)) Tj
+/F2 9 Tf
+0 -12 Td
+(- Built a real-time security monitoring system using Python, Flask, Sysmon, and ELK Stack.) Tj
+0 -12 Td
+(- Detected brute-force attacks, malware activity, unauthorized USB access, and network scans.) Tj
+0 -12 Td
+(- Automated incident response actions such as blocking IP addresses and terminating suspicious processes.) Tj
+0 -12 Td
+(- Integrated MITRE ATT&CK mapping, risk scoring, and automated alert generation.) Tj
+
+/F1 10 Tf
+0 -16 Td
+(2. USB Forensics and Monitoring Toolkit - (Python, PyWin32, Tkinter GUI)) Tj
+/F2 9 Tf
+0 -12 Td
+(- Developed a Python-based USB forensics toolkit to monitor USB plug/unplug events.) Tj
+0 -12 Td
+(- Implemented real-time USB detection using PyWin32 and logged events in secure JSON evidence files.) Tj
+0 -12 Td
+(- Designed a Tkinter GUI dashboard to display USB logs, identifying unauthorized usage and data theft.) Tj
+
+/F1 10 Tf
+0 -16 Td
+(3. Automated Resume Analyzer in AI - (Python, NLP, Flask)) Tj
+/F2 9 Tf
+0 -12 Td
+(- Built a Flask web app that analyzes resumes and provides structured feedback using NLP.) Tj
+0 -12 Td
+(- Supported PDF/DOCX parsing, skill extraction, and scoring against job descriptions.) Tj
+
+/F1 12 Tf
+0 -24 Td
+(CERTIFICATIONS) Tj
+/F2 9 Tf
+0 -14 Td
+(- Ethical Hacking for Beginners - Simplilearn) Tj
+0 -12 Td
+(- Introduction to DevOps - Simplilearn) Tj
+ET
+endstream
+endobj
+5 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica-Bold
+>>
+endobj
+6 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica
+>>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000295 00000 n 
+0000002816 00000 n 
+0000002897 00000 n 
+trailer
+<<
+  /Size 7
+  /Root 1 0 R
+>>
+startxref
+2973
+%%EOF
