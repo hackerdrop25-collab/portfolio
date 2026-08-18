@@ -68,7 +68,7 @@ export const personalInfo = {
       icon: "ShieldAlert",
       date: "25th September 2025",
       code: "9047623",
-      link: "https://www.simplilearn.com/skillup-free-online-courses"
+      link: "https://drive.google.com/file/d/1a-eyRevDnMZpsWsOmFB-68olQnd1kqTc/view?usp=drive_link"
     },
     {
       title: "Introduction to DevOps Tools",
@@ -77,7 +77,7 @@ export const personalInfo = {
       icon: "Cpu",
       date: "29th November 2025",
       code: "9488117",
-      link: "https://www.simplilearn.com/skillup-free-online-courses"
+      link: "https://drive.google.com/file/d/1inHO7oOccS4wO62TAb68QgzviA-cdTjq/view?usp=drive_link"
     }
   ],
   socialLinks: {
@@ -89,5 +89,5 @@ export const personalInfo = {
     phone: "+91 8220899501",
     location: "Chinniyampalayam, Coimbatore, Tamil Nadu"
   },
-  resumeUrl: "/resume.pdf"
+  resumeUrl: "https://drive.google.com/file/d/1DjG1QwY2N2NA5TQ0uUSC6kN82tSgp2QR/view?usp=drive_link"
 };
